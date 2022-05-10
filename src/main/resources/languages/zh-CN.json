@@ -184,7 +184,7 @@
       "account_error": "账号不存在！"
     },
     "position": {
-      "success": "坐标：%.3f, %.3f, %.3f\n场景ID：%d"
+      "success": "坐标：%s, %s, %s\n场景ID：%s"
     },
     "reload": {
       "reload_start": "正在重载配置文件和数据。",
